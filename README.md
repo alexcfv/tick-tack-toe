@@ -1,1 +1,1 @@
-# tick-tack-toe
+npx nex dev
